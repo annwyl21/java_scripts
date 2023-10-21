@@ -1,2 +1,1 @@
-# java_scripts
-Java Intro Course
+# Java Intro Course
